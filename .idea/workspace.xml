@@ -133,15 +133,15 @@
           <option name="ENABLED" value="false" />
         </pattern>
         <pattern>
-          <option name="PATTERN" value="org.tp2.User" />
-          <option name="ENABLED" value="false" />
+          <option name="PATTERN" value="org.tp2.exo1.User" />
+          <option name="ENABLED" value="true" />
         </pattern>
         <pattern>
           <option name="PATTERN" value="org.tp2.*" />
           <option name="ENABLED" value="false" />
         </pattern>
         <pattern>
-          <option name="PATTERN" value="org.tp2.UserService" />
+          <option name="PATTERN" value="org.tp2.exo1.UserService" />
           <option name="ENABLED" value="true" />
         </pattern>
         <pattern>
@@ -149,7 +149,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
         <pattern>
-          <option name="PATTERN" value="org.tp2.UserRepository" />
+          <option name="PATTERN" value="org.tp2.exo1.UserRepository" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
