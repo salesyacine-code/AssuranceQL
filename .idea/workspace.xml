@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60b8d138-4512-47e0-a4e0-c5c63397fec8" name="Changes" comment="done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="fabd4c5d-69b4-4d6f-b11f-b30b83b67b3a" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/salesyacine-code/aql.git&quot;,
+    &quot;accountId&quot;: &quot;75ace53b-64fe-4184-98f6-7b27e060c997&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3C1GkfDPb0aYTJlUWEWQgnW80h1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.Main.executor": "Run",
+    "JUnit.OrderControllerTest.executor": "Coverage",
+    "JUnit.UserServiceTest (1).executor": "Coverage",
+    "JUnit.UserServiceTest.executor": "Run",
+    "JUnit.UserServiceTest.getUserById_shouldReturnUser_whenUserExists.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/PC/Desktop/AQL/TP2/tp2/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.OrderControllerTest">
+    <configuration name="OrderControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo2.OrderService" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo2.OrderDao" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo2.OrderController" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo2.Order" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo3.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo3.Product" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo3.ProductApiClient" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.exo3.ProductService" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp1.Anagram" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tp2.exo2" />
+      <option name="MAIN_CLASS_NAME" value="com.tp2.exo2.OrderControllerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.User" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.UserService" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.User" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp2.UserRepository" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tp2.exo1" />
+      <option name="MAIN_CLASS_NAME" value="com.tp2.exo1.UserServiceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tp2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tp2" />
+      <option name="MAIN_CLASS_NAME" value="com.tp2.UserServiceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tp2.exo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tp2.exo1" />
+      <option name="MAIN_CLASS_NAME" value="com.tp2.exo1.UserServiceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.getUserById_shouldReturnUser_whenUserExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.UserServiceTest" />
+      <option name="METHOD_NAME" value="getUserById_shouldReturnUser_whenUserExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserServiceTest" />
+      <item itemvalue="JUnit.OrderControllerTest" />
+      <item itemvalue="JUnit.UserServiceTest.getUserById_shouldReturnUser_whenUserExists" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderControllerTest" />
+        <item itemvalue="JUnit.UserServiceTest.getUserById_shouldReturnUser_whenUserExists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b8d138-4512-47e0-a4e0-c5c63397fec8" name="Changes" comment="" />
+      <created>1775545815033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775545815033</updated>
+      <workItem from="1775545816760" duration="4496000" />
+      <workItem from="1775567891321" duration="321000" />
+      <workItem from="1775568901600" duration="1151000" />
+      <workItem from="1775570222791" duration="28000" />
+    </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1775550119097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775550119097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tp2$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1775549188858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.tp2.UserService</FILTER>
+      <FILTER>org.tp2.User</FILTER>
+      <FILTER>org.tp2.UserRepository</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AllTps$OrderControllerTest.ic" NAME="OrderControllerTest Coverage Results" MODIFIED="1775569799949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.tp2.exo3.Product</FILTER>
+      <FILTER>org.tp2.exo3.ProductApiClient</FILTER>
+      <FILTER>org.tp2.exo3.ProductService</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp2$OrderControllerTest.ic" NAME="OrderControllerTest Coverage Results" MODIFIED="1775549993508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.tp2.exo2.*</FILTER>
+      <FILTER>org.tp2.exo2.OrderService</FILTER>
+      <FILTER>org.tp2.exo2.OrderDao</FILTER>
+      <FILTER>org.tp2.exo2.OrderController</FILTER>
+      <FILTER>org.tp2.exo2.Order</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp2$UserServiceTest__1_.ic" NAME="UserServiceTest (1) Coverage Results" MODIFIED="1775549065252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.tp2.exo1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
