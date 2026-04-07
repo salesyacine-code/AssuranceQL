@@ -1,9 +1,9 @@
 // src/test/java/com/example/service/UserServiceTest.java
 
 package  com.tp2.exo1;
-import org.tp2.User;
-import org.tp2.UserRepository;
-import org.tp2.UserService;
+import org.tp2.exo1.User;
+import org.tp2.exo1.UserRepository;
+import org.tp2.exo1.UserService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

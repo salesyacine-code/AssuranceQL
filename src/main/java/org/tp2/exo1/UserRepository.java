@@ -1,7 +1,5 @@
 // src/main/java/com/example/repository/UserRepository.java
-package org.tp2;
-
-import org.tp2.User;
+package org.tp2.exo1;
 
 public interface UserRepository {
     /**

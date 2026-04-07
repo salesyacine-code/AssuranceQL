@@ -1,8 +1,5 @@
 // src/main/java/com/example/service/UserService.java
-package org.tp2;
-
-import org.tp2.User;
-import org.tp2.UserRepository;
+package org.tp2.exo1;
 
 public class UserService {
 

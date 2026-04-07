@@ -1,5 +1,5 @@
 // src/main/java/com/example/model/User.java
-package org.tp2;
+package org.tp2.exo1;
 
 public class User {
     private long id;
