@@ -4,7 +4,146 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b8d138-4512-47e0-a4e0-c5c63397fec8" name="Changes" comment="done" />
+    <list default="true" id="60b8d138-4512-47e0-a4e0-c5c63397fec8" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/TaskManagerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/configuration/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/configuration/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/AssigmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/StaticPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/dataloader/InitialDataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/service/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/service/TaskServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/java/pl/rengreen/taskmanager/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/css/flatly/_bootswatch.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/css/flatly/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/css/flatly/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/css/flatly/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/css/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/ann.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/error-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/kate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/mark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/ralf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/task-manager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/tom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/forms/assignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/forms/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/forms/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/forms/task-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/forms/task-new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/fragments/days-left-until-deadline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/fragments/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/fragments/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/fragments/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/views/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/views/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/views/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/views/tasks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/main/resources/templates/views/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/TaskManagerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/controller/IndexControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/controller/LoginControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/controller/RegisterControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/controller/StaticPageControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/controller/TaskControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/service/RoleServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/service/TaskServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo2/src/test/java/pl/rengreen/taskmanager/service/UserServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/TaskManagerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/configuration/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/configuration/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/AssigmentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/ProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/RegisterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/StaticPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/dataloader/InitialDataLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/model/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/repository/TaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/service/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/service/TaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/service/TaskServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/java/pl/rengreen/taskmanager/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/css/flatly/_bootswatch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/css/flatly/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/css/flatly/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/css/flatly/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/css/mystyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/admin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/ann.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/error-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/kate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/mark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/ralf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/task-manager.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/tom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/forms/assignment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/forms/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/forms/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/forms/task-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/forms/task-new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/fragments/days-left-until-deadline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/fragments/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/fragments/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/fragments/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/views/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/views/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/views/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/views/tasks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/main/resources/templates/views/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/TaskManagerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/controller/IndexControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/controller/LoginControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/controller/RegisterControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/controller/StaticPageControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/controller/TaskControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/service/RoleServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/service/TaskServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/task-manager/src/test/java/pl/rengreen/taskmanager/service/UserServiceImplTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +231,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/tp3/exo1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/tp3/exo2" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
@@ -282,7 +422,7 @@
       <workItem from="1775568901600" duration="1151000" />
       <workItem from="1775570222791" duration="28000" />
       <workItem from="1776328838470" duration="6639000" />
-      <workItem from="1776673966532" duration="4495000" />
+      <workItem from="1776673966532" duration="4907000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />
@@ -308,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776678476789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done">
+      <option name="closed" value="true" />
+      <created>1776678655095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776678655095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
