@@ -1,4 +1,4 @@
-package com.TP1.BranchCoverageTest;
+package org.TP1.BranchCoverageTest;
 
 
 

@@ -1,6 +1,6 @@
 // src/test/java/com/example/service/UserServiceTest.java
 
-package  com.tp2.exo1;
+package org.tp2.exo1;
 import org.tp2.exo1.User;
 import org.tp2.exo1.UserRepository;
 import org.tp2.exo1.UserService;

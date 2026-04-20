@@ -1,4 +1,4 @@
-package com.TP1.ConditionCoverageTest;
+package org.TP1.ConditionCoverageTest;
 
 import org.junit.jupiter.api.Test;
 import org.tp1.BinarySearch;

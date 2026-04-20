@@ -1,4 +1,4 @@
-package com.tp2.exo3;
+package org.tp2.exo3;
 
 
 import org.tp2.exo3.ProductApiClient;

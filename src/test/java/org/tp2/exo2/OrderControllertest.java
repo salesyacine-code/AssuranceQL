@@ -1,4 +1,4 @@
-package com.tp2.exo2;
+package org.tp2.exo2;
 
 
 

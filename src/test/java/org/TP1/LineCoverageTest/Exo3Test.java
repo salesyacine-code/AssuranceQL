@@ -1,4 +1,4 @@
-package com.TP1.LineCoverageTest;
+package org.TP1.LineCoverageTest;
 
 
 import org.junit.jupiter.api.Test;

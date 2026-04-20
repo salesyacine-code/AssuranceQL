@@ -5,17 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60b8d138-4512-47e0-a4e0-c5c63397fec8" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/model/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/repository/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/service/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/TP3/TaskIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application-test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo1/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/TP3/TaskIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tp2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/model/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo1/repository/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tp3/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tp3/exo1/service/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/BranchCoverageTest/Exo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/BranchCoverageTest/Exo1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/BranchCoverageTest/Exo2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/BranchCoverageTest/Exo2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/BranchCoverageTest/Exo3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/BranchCoverageTest/Exo3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/ConditionCoverageTest/Exo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/ConditionCoverageTest/Exo1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/ConditionCoverageTest/Exo2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/ConditionCoverageTest/Exo2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/ConditionCoverageTest/Exo3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/ConditionCoverageTest/Exo3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/LineCoverageTest/Exo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/LineCoverageTest/Exo1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/LineCoverageTest/Exo2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/LineCoverageTest/Exo2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP1/LineCoverageTest/Exo3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TP1/LineCoverageTest/Exo3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TP3/TaskIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tp2/exo1/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tp2/exo1/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tp2/exo2/OrderControllertest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tp2/exo2/OrderControllertest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tp2/exo3/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tp2/exo3/ProductServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +57,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/salesyacine-code/AssuranceQL.git",
-    "accountId": "4491e39d-3897-4282-b8e6-864073938fac"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/salesyacine-code/AssuranceQL.git&quot;,
+    &quot;accountId&quot;: &quot;4491e39d-3897-4282-b8e6-864073938fac&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
@@ -71,7 +82,9 @@
     "Application.App.executor": "Run",
     "Application.Main.executor": "Run",
     "JUnit.OrderControllerTest.executor": "Coverage",
-    "JUnit.TaskIntegrationTest.executor": "Run",
+    "JUnit.TaskIntegrationTest (1).executor": "Run",
+    "JUnit.TaskIntegrationTest (2).executor": "Run",
+    "JUnit.TaskIntegrationTest.executor": "Coverage",
     "JUnit.UserServiceTest (1).executor": "Coverage",
     "JUnit.UserServiceTest.executor": "Run",
     "JUnit.UserServiceTest.getUserById_shouldReturnUser_whenUserExists.executor": "Run",
@@ -84,7 +97,8 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/yacine/IdeaProjects/AssuranceQL",
+    "last_opened_file_path": "/home/yacine/IdeaProjects/AssuranceQL/src/main/java/org/tp3/exo1",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/PC/Desktop/AQL/TP2/tp2/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
@@ -97,24 +111,14 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.TP3" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/tp3/exo1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TaskIntegrationTest">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.tp3.Application" />
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.tp3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TaskIntegrationTest (1)">
     <configuration name="OrderControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tp2" />
       <extension name="coverage">
@@ -163,11 +167,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskIntegrationTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.TP3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.TP3" />
+      <option name="MAIN_CLASS_NAME" value="org.TP3.TaskIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskIntegrationTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tp3" />
+      <option name="MAIN_CLASS_NAME" value="org.tp3.TaskIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.TP3.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.tp3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,42 +216,6 @@
       <envs>
         <env name="DOCKER_API_VERSION" value="1.45" />
       </envs>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="false" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="org.tp2.exo1.User" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="org.tp2.*" />
-          <option name="ENABLED" value="false" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="org.tp2.exo1.UserService" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="org.tp2.User" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="org.tp2.exo1.UserRepository" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tp2.exo1" />
-      <option name="MAIN_CLASS_NAME" value="com.tp2.exo1.UserServiceTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -274,17 +276,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.TaskIntegrationTest (1)" />
+      <item itemvalue="JUnit.TaskIntegrationTest (2)" />
       <item itemvalue="JUnit.TaskIntegrationTest" />
-      <item itemvalue="JUnit.UserServiceTest" />
       <item itemvalue="JUnit.OrderControllerTest" />
       <item itemvalue="JUnit.UserServiceTest.getUserById_shouldReturnUser_whenUserExists" />
       <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TaskIntegrationTest (1)" />
+        <item itemvalue="JUnit.TaskIntegrationTest (2)" />
         <item itemvalue="JUnit.TaskIntegrationTest" />
-        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.OrderControllerTest" />
         <item itemvalue="JUnit.UserServiceTest.getUserById_shouldReturnUser_whenUserExists" />
       </list>
@@ -301,7 +304,8 @@
       <workItem from="1775567891321" duration="321000" />
       <workItem from="1775568901600" duration="1151000" />
       <workItem from="1775570222791" duration="28000" />
-      <workItem from="1776328838470" duration="6302000" />
+      <workItem from="1776328838470" duration="6639000" />
+      <workItem from="1776673966532" duration="4177000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />
@@ -311,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775550119097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done">
+      <option name="closed" value="true" />
+      <created>1776336141499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776336141500</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,27 +344,7 @@
     <MESSAGE value="done" />
     <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/tp3/Application.java</url>
-          <line>7</line>
-          <properties class="org.tp3.Application" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tp2$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1775549188858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>org.tp2.UserService</FILTER>
-      <FILTER>org.tp2.User</FILTER>
-      <FILTER>org.tp2.UserRepository</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/AllTps$OrderControllerTest.ic" NAME="OrderControllerTest Coverage Results" MODIFIED="1775569799949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>org.tp2.exo3.Product</FILTER>
       <FILTER>org.tp2.exo3.ProductApiClient</FILTER>
@@ -364,6 +356,14 @@
       <FILTER>org.tp2.exo2.OrderDao</FILTER>
       <FILTER>org.tp2.exo2.OrderController</FILTER>
       <FILTER>org.tp2.exo2.Order</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AssuranceQL$TaskIntegrationTest.ic" NAME="TaskIntegrationTest Coverage Results" MODIFIED="1776676750375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.tp3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp2$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1775549188858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.tp2.UserService</FILTER>
+      <FILTER>org.tp2.User</FILTER>
+      <FILTER>org.tp2.UserRepository</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/tp2$UserServiceTest__1_.ic" NAME="UserServiceTest (1) Coverage Results" MODIFIED="1775549065252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>com.tp2.exo1.*</FILTER>

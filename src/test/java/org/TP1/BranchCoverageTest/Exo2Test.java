@@ -1,4 +1,4 @@
-package com.TP1.BranchCoverageTest;
+package org.TP1.BranchCoverageTest;
 
 import org.junit.jupiter.api.Test;
 import org.tp1.Anagram;
